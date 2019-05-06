@@ -1,22 +1,3 @@
-Conversations
-	
-	
-	
-Yash Soni
-	
-Undistorted Image
- - -- Yash Soni 1st Year Undergraduate Student Mathematics and Computing IIT Kharagpur
-Attachments
-test.cpp
-camtest.cpp
-	
-	May 5
-2.61 GB (17%) of 15 GB used
-Manage
-Terms · Privacy · Program Policies
-Last account activity: 2 days ago
-Details
-
 #include <stdio.h>
 #include <string.h>
 #include <unistd.h>
